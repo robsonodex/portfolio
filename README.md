@@ -1,13 +1,13 @@
 # portfolio
 
-# 💼 Portfólio Profissional – Francisco Robson Barboza de Oliveira
+# Portfólio Profissional – Francisco Robson Barboza de Oliveira
 
 Analista de Suporte Sênior com mais de 12 anos de experiência em infraestrutura, automação, análise de dados e integração de sistemas.  
 Especialista em Bitrix24, Power BI, Microsoft 365, redes e segurança da informação.
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🔧 Projeto 1 – Plano de Recuperação de Desastres e Segurança em Ambiente Crítico de TI
 **Empresa:** DJ Hotelaria – Juazeiro do Norte/CE  
@@ -18,7 +18,7 @@ Desenvolvimento de políticas de backup, recuperação de desastres (RTO/RPO) e 
 
 ---
 
-### 📊 Projeto 2 – Implantação e Automação de CRM com Bitrix24 e Integrações via API
+### Projeto 2 – Implantação e Automação de CRM com Bitrix24 e Integrações via API
 **Empresa:** ERP24 – Portugal (Remoto)  
 **Período:** jun/2025 – atual  
 **Resumo:**  
@@ -27,7 +27,7 @@ Implantação e personalização completa do Bitrix24 com automações, permiss�
 
 ---
 
-### 📈 Projeto 3 – Análise de Indicadores e Dashboards de Suporte com Power BI
+### Projeto 3 – Análise de Indicadores e Dashboards de Suporte com Power BI
 **Empresa:** DJ Hotelaria – Juazeiro do Norte/CE  
 **Período:** jan/2015 a dez/2024  
 **Resumo:**  
